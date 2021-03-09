@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@babel/cli@7.12.16":
-  version "7.12.16"
-  resolved "https://registry.npm.taobao.org/@babel/cli/download/@babel/cli-7.12.16.tgz?cache=0&sync_timestamp=1613092719491&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fcli%2Fdownload%2F%40babel%2Fcli-7.12.16.tgz#bde5bc5118d90e539603abcd37938c5f0fd6c87a"
-  integrity sha1-veW8URjZDlOWA6vNN5OMXw/WyHo=
+"@babel/cli@7.13.10":
+  version "7.13.10"
+  resolved "https://registry.yarnpkg.com/@babel/cli/-/cli-7.13.10.tgz#3a9254cbe806639c8ca4ebd49ebe54b4267b88c9"
+  integrity sha512-lYSBC7B4B9hJ7sv0Ojx1BrGhuzCoOIYfLjd+Xpd4rOzdS+a47yi8voV8vFkfjlZR1N5qZO7ixOCbobUdT304PQ==
   dependencies:
     commander "^4.0.1"
     convert-source-map "^1.1.0"
